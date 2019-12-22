@@ -1,0 +1,18 @@
+true  + false
+1
+
+12 + "6"
+"126"
+
+"number" + 15 +3
+"number153"
+
+[1]> null
+true
+
+"foo" + + "bar"
+"fooNaN"
+
+
+"foo" +  "bar"
+"foobar"
